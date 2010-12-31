@@ -1,0 +1,14 @@
+export(
+
+	#FactualConnection ,
+	createFactualConnection ,
+
+
+	#FactualSchemaResult ,
+	factualRead ,
+
+
+	#FactualReadResult ,
+	factualGetSchema
+
+)
